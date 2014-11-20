@@ -1,14 +1,6 @@
-pratibha2015
-============
-
 Website for Pratibha 2015
 
-/  
-|-- img  
-|....|-- roisin.jpg  
-|....|-- ritwik.jpg  
-|....|-- sindhu.jpg  
-|  
-|-- index.html  
-|-- officers.html  
-|-- README.md  
+Folder Structure
+================
+
+`img` folder contains pictures of the officers (so far 11/20/14)
