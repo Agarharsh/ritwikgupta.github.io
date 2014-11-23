@@ -2,6 +2,10 @@ body {
   background-color: #ffd54f;
 }
 
+.jumbotron .navbar-default {
+  background-color: #00bcd4;
+}
+
 .footer p {
   color: #f7afaf;
 }
