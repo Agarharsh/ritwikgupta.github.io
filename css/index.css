@@ -2,7 +2,8 @@ body {
   background-color: #ffd54f;
 }
 
-.jumbotron .navbar-default {
+.jumbotron {
+  background-color: #00bcd4;
   color: #00bcd4;
 }
 
