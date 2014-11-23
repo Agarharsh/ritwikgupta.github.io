@@ -2,13 +2,13 @@ body {
   background-color: #ffd54f;
 }
 
+.jumobtron p {
+  color: #00bcd4;
+}
+
 .jumbotron {
   background-color: #ffd54f;
   color: #ffd54f;
-}
-
-.jumobtron p {
-  color: #00bcd4;
 }
 
 .footer p {
